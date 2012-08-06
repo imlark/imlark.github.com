@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://imlark.github.com/atom.xml" rel="self"/>
   <link href="http://imlark.github.com/"/>
-  <updated>2012-08-06T17:43:19+09:00</updated>
+  <updated>2012-08-06T17:53:21+09:00</updated>
   <id>http://imlark.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Posting]]></title>
+    <link href="http://imlark.github.com/blog/2012/08/06/first-posting/"/>
+    <updated>2012-08-06T17:50:00+09:00</updated>
+    <id>http://imlark.github.com/blog/2012/08/06/first-posting</id>
+    <content type="html"><![CDATA[<p>Hellow World~</p>
+]]></content>
+  </entry>
   
 </feed>
